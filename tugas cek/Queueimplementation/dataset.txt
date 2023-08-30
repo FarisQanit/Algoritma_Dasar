@@ -1,0 +1,30 @@
+Budi,Teknik Kimia,170,65,Futsal
+Rina,Teknik Lingkungan,160,55,Membaca
+Ardi,Teknik Informatika,175,70,Berenang
+Cinta,Manajemen,168,58,Menulis
+Dian,Psikologi,155,50,Memasak
+Fauzi,Fisika,180,75,Basket
+Kiki,Akuntansi,165,62,Mendengarkan Musik
+Adi,Sistem Informasi,172,67,Memancing
+Nita,Teknik Industri,163,52,Menari
+Yoga,Ilmu Komunikasi,178,72,Travelling 
+Putri,Teknik Sipil,166,56,Bersepeda
+Bima,Hukum,177,73,Bermain Gitar
+Sari,Desain Grafis,162,54,Menggambar
+Deni,Farmasi,169,63,Berlari
+Rudi,Biologi,172,68,Membaca Buku
+Maya,Kedokteran,158,49,Memasak
+Adit,Teknik Mesin,182,80,Futsal
+Lia,Pendidikan Bahasa Inggris,167,57,Menonton Film
+Dodi,Agribisnis,174,71,Berkebun
+Rizky,Teknik Elektro,179,76,Main Game
+Fika,Manajemen Informatika,164,55,Bermain Bulu Tangkis
+Dinda,Ilmu Gizi,160,50,Memasak
+Rangga,Teknik Geologi,178,68,Mendaki Gunung
+Yudi,Ekonomi,170,65,Bermain Basket
+Rika,Psikologi,165,58,Membaca Novel
+Rani,Pendidikan Biologi,162,52,Berenang
+Edo,Teknik Industri,172,70,Memancing
+Alfi,Desain Interior,155,48,Menonton Film
+Dani,Teknik Arsitektur,175,75,Bersepeda
+Sita,Teknik Pertanian,168,62,Menanam Tanaman
